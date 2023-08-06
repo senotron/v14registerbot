@@ -1,0 +1,26 @@
+{
+	"name": "mrsn",
+	"version": "1.0.0",
+	"description": "mrsn.dev Kayıt+Doğrulama sistemli Bot",
+	"main": "app.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"keywords": [],
+	"author": "mrsn.dev",
+	"license": "MIT",
+	"dependencies": {
+		"@discordjs/rest": "^0.5.0",
+		"config.json": "^0.0.4",
+		"croxydb": "^0.0.10",
+		"discord-api-types": "^0.33.4",
+		"discord.js": "^14.8.0",
+		"express": "^4.18.2",
+		"invite-module": "^1.0.5",
+		"mongoose": "^6.3.6"
+	},
+	"engines": {
+		"node": "16.x",
+		"npm": "7.x"
+	}
+}
