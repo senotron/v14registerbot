@@ -1,0 +1,5 @@
+{
+ "channel":"Kayıt kanalı id",
+ "memberRole":"Üyelere verilecek rol",
+ "verifyStatus": false // Doğrulama Sisteminin açık olmasını istiyorsanız true,kapalı olmasını istiyorsanız false yapın
+}
