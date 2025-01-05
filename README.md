@@ -28,7 +28,6 @@ A powerful and customizable Discord bot for user verification and registration, 
 4. Start the bot:  
    ```bash
    node index.js
-k
    ```  
 
 ## Usage  
