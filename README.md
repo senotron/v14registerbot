@@ -22,7 +22,7 @@ A powerful and customizable Discord bot for user verification and registration, 
    ```  
 
 3. Configure the bot:  
-   - Rename `config.example.json` to `config.json`.  
+   - Rename `config.txt` to `config.json`.  
    - Fill in your bot token, role IDs, and other server-specific details.  
 
 4. Start the bot:  
