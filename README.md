@@ -46,7 +46,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support  
 
-If you encounter any issues or have feature suggestions, please open an [issue](https://github.com/senotron/discord-register/issues).  
+If you encounter any issues or have feature suggestions, please open an [issue](https://github.com/senotron/discord-register-bot/issues).  
 
 ## Author  
 Created by **Senan Shukurzade**.
