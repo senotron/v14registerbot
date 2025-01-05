@@ -1,3 +1,5 @@
+# 🌟 Star please <3
+
 # Discord Verification and Registration Bot  
 
 A powerful and customizable Discord bot for user verification and registration, designed to streamline the member onboarding process in your server.  
