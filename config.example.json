@@ -1,0 +1,6 @@
+{
+  "rulesChannel": "CHANNEL_ID", // The ID of the rules channel where users should read the rules.
+  "channel": "CHANNEL_ID", // The ID of the channel where the registration embed will be sent.
+  "memberRole": "ROLE_ID", // The ID of the role that will be assigned to users after successful registration.
+  "verifyStatus": true // Set to true to enable verification via a 6-digit code, or false to disable.
+}
