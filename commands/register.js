@@ -15,7 +15,7 @@ const {
 const config = require("../config.json");
 
 module.exports = {
-    name: "sendembed",
+    name: "register",
     description: 'Sends the registration embed',
     type: 1,
     options: [],
